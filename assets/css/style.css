@@ -1,0 +1,32 @@
+body {
+  width: 960px;
+  margin: auto;
+  background-color: #0b618b;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.container {
+  background-color: white;
+  width: 100%;
+}
+
+.topping {
+  width: 20%;
+}
+
+h1 {
+  display: block;
+  font-size: 75px;
+  font-weight: bolder;
+}
+
+#score {
+  background-color: #e1133b;
+  height: 50px;
+}
+
+#line {
+  background-color: #e1133b;
+  height: 25px;
+}
